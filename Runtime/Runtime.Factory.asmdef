@@ -1,6 +1,6 @@
 {
-    "name": "Runtime",
-    "rootNamespace": "",
+    "name": "Runtime.Factory",
+    "rootNamespace": "Patterns.Factory",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
